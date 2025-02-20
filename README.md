@@ -3,7 +3,7 @@ Requirements:
 - Golang
 
 How to install:
-- `go install https://github.com/dinopy/gator`
+- `go install github.com/dinopy/gator`
 
 Local Requirements:
 - In ~/ folder you'll need a .gatorconfig.json configured as such:
