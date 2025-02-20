@@ -1,0 +1,8 @@
+{
+  "name": "gator",
+  "adapter": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "user": "costindinoiu",
+  "database": "gator"
+}
