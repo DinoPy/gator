@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dinopy/blogaggregator/internal/config"
-	"github.com/dinopy/blogaggregator/internal/database"
-	"github.com/dinopy/blogaggregator/internal/parser"
+	"github.com/dinopy/gator/internal/config"
+	"github.com/dinopy/gator/internal/database"
+	"github.com/dinopy/gator/internal/parser"
 	"github.com/google/uuid"
 	_ "github.com/lib/pq"
 )

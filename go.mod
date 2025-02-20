@@ -1,4 +1,4 @@
-module github.com/dinopy/blogaggregator
+module github.com/dinopy/gator
 
 go 1.24.0
 
